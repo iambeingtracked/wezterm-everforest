@@ -1,8 +1,5 @@
 {
-    "settingDefaults": {
-        "custom_themes": [
-            {
-				 "name": "Everforest dark hard",
+    "name": "Nord dark theme",
     "is_dark": true,
     "colors": {
         "accent-color": "#a7c080",
@@ -24,14 +21,4 @@
         "timeline-highlights-color": "#3b4252",
         "reaction-row-button-selected-bg-color": "#bf616a"
     }
-            },
-            {
-                "name": "Another theme",
-                "colors": {
-                    "primary-color": "#526A9E"
-                }
-            }
-        ]
-    },
-    "showLabsSettings": true
 }
