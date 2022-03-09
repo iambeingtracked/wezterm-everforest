@@ -1,0 +1,37 @@
+{
+    "settingDefaults": {
+        "custom_themes": [
+            {
+				 "name": "Everforest dark hard",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#a7c080",
+        "primary-color": "#4b565c",
+        "warning-color": "#e67e80",
+
+        "sidebar-color": "#4b565c",
+        "roomlist-background-color": "#2b3339",
+        "roomlist-text-color": "#d3c6aa",
+        "roomlist-text-secondary-color": "#d3c6aa",
+        "roomlist-highlights-color": "#4b565c",
+        "roomlist-separator-color": "#a7c080",
+
+        "timeline-background-color": "#434c5e",
+        "timeline-text-color": "#eceff4",
+        "secondary-content": "#eceff4",
+        "tertiary-content": "#eceff4",
+        "timeline-text-secondary-color": "#81a1c1",
+        "timeline-highlights-color": "#3b4252",
+        "reaction-row-button-selected-bg-color": "#bf616a"
+    }
+            },
+            {
+                "name": "Another theme",
+                "colors": {
+                    "primary-color": "#526A9E"
+                }
+            }
+        ]
+    },
+    "showLabsSettings": true
+}
